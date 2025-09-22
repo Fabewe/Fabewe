@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier</h1>
-<h3 align="center">I'm a computer science student in Córdoba focused on low level programming.</h3>
+<h3 align="center">Computer Engineer graduated from the University of Córdoba, focused on low-level programming.</h3>
 
+## 👋 About Me
+I’m a Computer Engineer graduated from the University of Córdoba, with a strong focus on low-level programming and systems development.  
+I enjoy working close to the hardware, exploring compilers, embedded systems, and performance-oriented software.  
+
+My main interests include:  
+- Systems programming  
+- Embedded development  
+- Compilers and operating systems  
+- Performance optimization  
+
+Always curious and eager to dive deeper into how things work under the hood.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fabewe57204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabewe57204" height="30" width="40" /></a>
