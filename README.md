@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier</h1>
 <h3 align="center">Computer Engineer graduated from the University of Córdoba, focused on low-level programming.</h3>
 
-## 👋 About Me
+## About Me
 I’m a Computer Engineer graduated from the University of Córdoba, with a strong focus on low-level programming and systems development.  
 I enjoy working close to the hardware, exploring compilers, embedded systems, and performance-oriented software.  
 
